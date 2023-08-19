@@ -1,3 +1,4 @@
 web resolusi
--konsisten untuk membuat konten sebanyak 2 kali semingu
--membuat projeck kecil kecilan 
+-membuat web html css sederhana
+-belajar git dan github di chanel wpu unpas
+-cari roadmap untuk menjadi front end developer
